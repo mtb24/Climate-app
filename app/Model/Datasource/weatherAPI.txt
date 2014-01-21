@@ -1,0 +1,15 @@
+Station Name:	SAN FRANCISCO INTERNATIONAL AIRPORT, CA US
+Station ID:	GHCND:USW00023234
+Lat/Long:	 37.6197°, -122.3647°
+Elevation:	 2.4 m
+
+Datasets:
+"id": "GHCND",
+      "name": "Daily Summaries",
+"id": "GHCNDMS",
+      "name": "Monthly Summaries",
+
+Data Categories:
+"id":"TEMP","name":"Air Temperature"
+
+data endpoint: http://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&stationid=GHCND:USW00023234&startdate=2014-01-01&enddate=2014-01-17
